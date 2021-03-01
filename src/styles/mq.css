@@ -1,0 +1,134 @@
+@media screen and (max-width: 1070px){
+    .header[_ngcontent-xyu-c34]{
+        height: unset;     
+        min-height: 70px;
+    }
+}
+@media screen and (max-width: 1069px){
+.header-formatter[_ngcontent-xyu-c34], .header-formatter--content-below[_ngcontent-xyu-c34], .header-formatter--mobile[_ngcontent-xyu-c34] {
+    padding: 16px 0;
+}
+}
+@media screen and (max-width: 880px){
+.header-formatter[_ngcontent-xyu-c34], .header-formatter--content-below[_ngcontent-xyu-c34], .header-formatter--mobile[_ngcontent-xyu-c34] {
+    width: 100%;
+    padding: 16px;
+}
+}
+@media screen and (max-width: 1070px){
+.header-formatter--right[_ngcontent-xyu-c34] {
+    flex-flow: row wrap;
+    display: none!important;
+}
+}
+@media screen and (max-width: 1070px){
+.header-container[_ngcontent-xyu-c34], .header-container--login[_ngcontent-xyu-c34], .header-container--signout[_ngcontent-xyu-c34] {
+    flex-flow: row wrap;
+    display: none!important;
+}}
+@media screen and (max-width: 450px){
+.header-container__item[_ngcontent-xyu-c34], .header-container__item--dropdown[_ngcontent-xyu-c34], .header-container__item--login[_ngcontent-xyu-c34] {
+    font-size: 24px;
+    margin: 6px 0;
+}}
+@media screen and (max-width: 800px){
+.landing-page-banner[_ngcontent-xyu-c31] {
+    height: unset;
+    padding-top: 16px;
+}}
+@media screen and (max-width: 800px){
+.landing-page-banner__row[_ngcontent-xyu-c31], .landing-page-banner__row--how-it-works[_ngcontent-xyu-c31] {
+    flex-flow: column nowrap;
+    justify-content: center;
+}}
+@media screen and (max-width: 800px){
+.landing-page-banner-text-container[_ngcontent-xyu-c31], .landing-page-banner-text-container--bottom[_ngcontent-xyu-c31] {
+    width: 100%;
+    margin: 48px auto;
+    padding: unset;
+}}
+@media screen and (max-width: 800px){ 
+.landing-page-banner__screenshot--web[_ngcontent-xyu-c31] {
+    width: 80%;
+}}
+@media screen and (max-width: 750px){
+.landing-page-banner__screenshot--web[_ngcontent-xyu-c31] {
+    display: none;
+}}
+@media screen and (max-width: 750px){
+.landing-page-banner__screenshot--mobile[_ngcontent-xyu-c31] {
+    display: flex;
+}}
+@media screen and (max-width: 800px){
+.landing-page-banner__row--how-it-works[_ngcontent-xyu-c31] {
+    align-items: center;
+    margin: 24px 0;
+}}
+@media screen and (max-width: 800px){
+.landing-page-how-it-works[_ngcontent-xyu-c31] {
+    margin-bottom: 12px;
+    justify-content: center;
+    align-items: center;
+}}
+@media screen and (max-width: 800px){
+.landing-page__content-subtitle--invert[_ngcontent-xyu-c31], .landing-page__content-subtitle--wrap[_ngcontent-xyu-c31] {
+    width: 100%;
+    text-align: center;
+}}
+@media screen and (max-width: 660px){
+.landing-page__features-feature[_ngcontent-xyu-c31] {
+    justify-content: center;
+    margin-top: 50px;
+}}
+@media screen and (max-width: 660px){
+.landing-page__features-content[_ngcontent-xyu-c31] {
+    flex-basis: 80%;
+    margin-bottom: 24px;
+}}
+@media screen and (max-width: 660px){
+.landing-page__features-title[_ngcontent-xyu-c31] {
+    font-size: 24px;
+}}
+@media screen and (max-width: 660px){
+.landing-page__features-body[_ngcontent-xyu-c31] {
+    font-size: 16px;
+}}
+@media screen and (max-width: 550px){
+.landing-page-banner-text-container--bottom--testimonial[_ngcontent-xyu-c31] {
+    width: 80%;
+}}
+@media screen and (max-width: 600px){
+.landing-page-banner--content[_ngcontent-xyu-c31] {
+    padding: 36px 0;
+    height: unset;
+}}
+@media screen and (max-width: 800px){
+.landing-page__community-row[_ngcontent-xyu-c31] {
+    width: 100%;
+    flex-flow: column nowrap;
+}}
+@media screen and (max-width: 800px){
+.landing-page__community-display[_ngcontent-xyu-c31] {
+    min-height: unset;
+    margin-bottom: 24px;
+}}
+@media screen and (max-width: 800px){
+.landing-page__community-divider[_ngcontent-xyu-c31] {
+    display: none;
+}}
+@media screen and (max-width: 550px){
+.landing-page-banner-text-container--bottom[_ngcontent-xyu-c31] {
+    padding: 36px 0;
+}}
+@media screen and (max-width: 600px){
+.footer-container[_ngcontent-xyu-c35] {
+    justify-content: space-between;
+}}
+@media screen and (max-width: 600px){
+.footer-column[_ngcontent-xyu-c35] {
+    margin: auto 10px;
+}}
+@media screen and (max-width: 600px){
+.footer-column__item[_ngcontent-xyu-c35] {
+    margin: 10px;
+}}

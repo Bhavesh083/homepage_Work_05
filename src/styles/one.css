@@ -1,6 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
 :root {
     --blue: #007bff;
-    --indigo: #6610f2;
+    --indigo: #6610f2;  
     --purple: #6f42c1;
     --pink: #e83e8c;
     --red: #dc3545;
@@ -44,14 +46,14 @@
     text-rendering: optimizeLegibility;
 }
 html {
-    font-family: sans-serif;
+    font-family: "Inter", sans-serif !important;
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 body {
     margin: 0;
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-family: "Inter", sans-serif !important;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -59,4 +61,10 @@ body {
     text-align: left;
     background-color: #fff;
 }
-body,html{font-family:Cereal,hk-grotesk,Roboto,Helvetica!important;margin:unset!important;background-color:#ebf0f5!important;line-height:unset!important;color:unset!important;text-align:unset!important}
+body,html{
+    font-family: "Inter", sans-serif !important;
+    margin:unset!important;
+    background-color:#ebf0f5!important;
+    line-height:unset!important;
+    color:unset!important;
+    text-align:unset!important}

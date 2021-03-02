@@ -1,8 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
 .root[_ngcontent-xyu-c36] {
     min-height: 100vh;
     display: flex;
     flex-flow: column nowrap;
     justify-content: space-between;
+    font-family: 'Inter',sans-serif;
 }
 *[_ngcontent-xyu-c36], [_ngcontent-xyu-c36]:after, [_ngcontent-xyu-c36]:before {
     box-sizing: border-box;
@@ -280,7 +283,6 @@ button[_ngcontent-xyu-c31], input[_ngcontent-xyu-c31] {
     display: flex;
     flex-flow: column;
 }
-
 .landing-page--white[_ngcontent-xyu-c31] {
     width: 100%;
     background-color: #fff;
